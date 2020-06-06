@@ -1,0 +1,6 @@
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\bin\Debug\Permabuffs V2.dll
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\bin\Debug\Permabuffs V2.pdb
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\obj\Debug\Permabuffs V2.csprojAssemblyReference.cache
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\obj\Debug\Permabuffs V2.csproj.CoreCompileInputs.cache
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\obj\Debug\Permabuffs V2.dll
+C:\Terraria-Server-Master\#### PLUGINS ####\1.3.0.7.9\PermabuffsV2.dll\Permabuffs V2\obj\Debug\Permabuffs V2.pdb
